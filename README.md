@@ -1,5 +1,6 @@
 Learning By Crawling - A Haskell Project
 ===================
+Created by: [sleijon1](https://github.com/sleijon1), [JKuren](https://github.com/JKuren), [PSigfridsson](https://github.com/PSigfridsson)
 - - - - 
 
 # Getting Started # 
